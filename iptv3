@@ -1,0 +1,61 @@
+ #EXTM3U
+
+#EXTINF:-1,Sky Animation
+http://185.95.109.145:8000/play/9zrx
+#EXTINF:-1,Sky Witness
+http://185.95.109.145:8000/play/9zsc
+#EXTINF:-1,Sky Drama
+http://185.95.109.145:8000/play/9zrw
+#EXTINF:-1,Sky Superhero
+http://185.95.109.145:8000/play/9zs1
+#EXTINF:-1,Sky Thriller
+http://185.95.109.145:8000/play/9zs0
+#EXTINF:-1,Halloween
+http://185.95.109.145:8000/play/9zrz
+#EXTINF:-1,Sky Action
+http://185.95.109.145:8000/play/9zrt
+#EXTINF:-1,Sky Sports PL
+http://185.95.109.145:8000/play/9zse
+#EXTINF:-1,Sky Comedy
+http://185.95.109.145:8000/play/9zrv
+#EXTINF:-1,Sky Select
+http://185.95.109.145:8000/play/9zry
+#EXTINF:-1,Sky Disney
+http://185.95.109.145:8000/play/9zru
+#EXTINF:-1,Sky Premiere
+http://185.95.109.145:8000/play/9zs2
+
+#EXTINF:-1,Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,AXS TV 
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1,Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1,CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1,Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1,Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1,Fox Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1,Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/index.m3u8
+#EXTINF:-1,Animal Planet
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,Discovery World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
