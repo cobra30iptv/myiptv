@@ -1,0 +1,635 @@
+ #EXTM3U
+#EXTINF:-1,BBC One
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_hd.m3u8
+#EXTINF:-1,BBC Two
+http://thebest.allgood.ws:25461/janet/janet/48879
+#EXTINF:-1,BBC Two England
+http://thebest.allgood.ws:25461/janet/janet/48878
+#EXTINF:-1,BBC News Channel
+http://thebest.allgood.ws:25461/janet/janet/48877
+#EXTINF:-1,BBC Four
+http://thebest.allgood.ws:25461/janet/janet/48876
+#EXTINF:-1,ITV
+http://thebest.allgood.ws:25461/janet/janet/48874
+#EXTINF:-1,ITV 1
+http://thebest.allgood.ws:25461/janet/janet/48873
+#EXTINF:-1,ITV 2
+http://thebest.allgood.ws:25461/janet/janet/48872
+#EXTINF:-1,ITV 3
+http://thebest.allgood.ws:25461/janet/janet/48870
+#EXTINF:-1,ITV 4
+http://thebest.allgood.ws:25461/janet/janet/48868
+#EXTINF:-1,itv.be
+http://thebest.allgood.ws:25461/janet/janet/48875
+#EXTINF:-1,ITV2 1
+http://thebest.allgood.ws:25461/janet/janet/48871
+#EXTINF:-1,ITV3 1
+http://thebest.allgood.ws:25461/janet/janet/48869
+#EXTINF:-1,ITV4 1
+http://thebest.allgood.ws:25461/janet/janet/48867
+#EXTINF:-1,CHANNEL 4
+http://thebest.allgood.ws:25461/janet/janet/48866
+#EXTINF:-1,CHANNEL 5
+http://thebest.allgood.ws:25461/janet/janet/48865
+#EXTINF:-1,SKY 1
+http://thebest.allgood.ws:25461/janet/janet/48838
+#EXTINF:-1,SKY 2
+http://thebest.allgood.ws:25461/janet/janet/48837
+#EXTINF:-1,SKY ATLANTIC
+http://thebest.allgood.ws:25461/janet/janet/48836
+#EXTINF:-1,YOUR TV
+http://thebest.allgood.ws:25461/janet/janet/48864
+#EXTINF:-1,TRU TV
+http://thebest.allgood.ws:25461/janet/janet/48863
+#EXTINF:-1,SPIKE
+http://thebest.allgood.ws:25461/janet/janet/48855
+#EXTINF:-1,E!
+http://thebest.allgood.ws:25461/janet/janet/48862
+#EXTINF:-1,E4
+http://thebest.allgood.ws:25461/janet/janet/48861
+#EXTINF:-1,FORCES TV
+http://thebest.allgood.ws:25461/janet/janet/48859
+#EXTINF:-1,DRAMA
+http://thebest.allgood.ws:25461/janet/janet/48852
+#EXTINF:-1,REDBULL TV
+http://thebest.allgood.ws:25461/janet/janet/48860
+#EXTINF:-1,4 SEVEN
+http://thebest.allgood.ws:25461/janet/janet/48854
+#EXTINF:-1,5 SELECT
+http://thebest.allgood.ws:25461/janet/janet/48857
+#EXTINF:-1,5 STAR
+http://thebest.allgood.ws:25461/janet/janet/48856
+#EXTINF:-1,DAVE
+http://thebest.allgood.ws:25461/janet/janet/48858
+#EXTINF:-1,CBS ACTION
+http://thebest.allgood.ws:25461/janet/janet/48848
+#EXTINF:-1,CBS DRAMA
+http://thebest.allgood.ws:25461/janet/janet/48849
+#EXTINF:-1,cbs REALITY  1
+http://thebest.allgood.ws:25461/janet/janet/48850
+#EXTINF:-1,cbs REALLY
+http://thebest.allgood.ws:25461/janet/janet/48851
+#EXTINF:-1,GOLD
+http://thebest.allgood.ws:25461/janet/janet/48847
+#EXTINF:-1,MORE 4
+http://thebest.allgood.ws:25461/janet/janet/48845
+#EXTINF:-1,WATCH
+http://thebest.allgood.ws:25461/janet/janet/48844
+#EXTINF:-1,WATCH   1
+http://thebest.allgood.ws:25461/janet/janet/48843
+#EXTINF:-1,TLC
+http://thebest.allgood.ws:25461/janet/janet/48842
+#EXTINF:-1,QUEST
+http://thebest.allgood.ws:25461/janet/janet/48840
+#EXTINF:-1,CHALLENGEN TV
+http://thebest.allgood.ws:25461/janet/janet/48853
+#EXTINF:-1,IRE | 3e
+http://thebest.allgood.ws:25461/janet/janet/49652
+#EXTINF:-1,IRE | RTE News Now
+http://thebest.allgood.ws:25461/janet/janet/49651
+#EXTINF:-1,IRE | RTE One HD
+http://thebest.allgood.ws:25461/janet/janet/49650
+#EXTINF:-1,IRE | RTE Two HD
+http://thebest.allgood.ws:25461/janet/janet/49649
+#EXTINF:-1,Discovery
+http://thebest.allgood.ws:25461/janet/janet/48898
+#EXTINF:-1,Discovery Investigation
+http://thebest.allgood.ws:25461/janet/janet/48897
+#EXTINF:-1,Discovery Science
+http://thebest.allgood.ws:25461/janet/janet/48896
+#EXTINF:-1,Discovery-History
+http://thebest.allgood.ws:25461/janet/janet/48895
+#EXTINF:-1,Discovery-Home-&Health
+http://thebest.allgood.ws:25461/janet/janet/48894
+#EXTINF:-1,Animal-Planet-HD
+http://thebest.allgood.ws:25461/janet/janet/48884
+#EXTINF:-1,Animal Planet
+http://thebest.allgood.ws:25461/janet/janet/48883
+#EXTINF:-1,Nat Geographic HD
+http://thebest.allgood.ws:25461/janet/janet/48885
+#EXTINF:-1,National-Geographic
+http://thebest.allgood.ws:25461/janet/janet/48889
+#EXTINF:-1,Nat-Geo-Wild
+http://thebest.allgood.ws:25461/janet/janet/48893
+#EXTINF:-1,Nat Geo Wild
+http://thebest.allgood.ws:25461/janet/janet/48886
+#EXTINF:-1,YESTERDAY
+http://thebest.allgood.ws:25461/janet/janet/48888
+#EXTINF:-1,H2
+http://thebest.allgood.ws:25461/janet/janet/48887
+#EXTINF:-1,cartoon network
+http://thebest.allgood.ws:25461/janet/janet/48912
+#EXTINF:-1,cartoonito
+http://thebest.allgood.ws:25461/janet/janet/48910
+#EXTINF:-1,CBBC
+http://thebest.allgood.ws:25461/janet/janet/48901
+#EXTINF:-1,CBeebies
+http://thebest.allgood.ws:25461/janet/janet/48900
+#EXTINF:-1,disney channel
+http://thebest.allgood.ws:25461/janet/janet/48909
+#EXTINF:-1,disney jr
+http://thebest.allgood.ws:25461/janet/janet/48908
+#EXTINF:-1,Kartoon Klassics
+http://thebest.allgood.ws:25461/janet/janet/48902
+#EXTINF:-1,Kix
+http://thebest.allgood.ws:25461/janet/janet/48905
+#EXTINF:-1,nickeloden
+http://thebest.allgood.ws:25461/janet/janet/48911
+#EXTINF:-1,Om Nom
+http://thebest.allgood.ws:25461/janet/janet/48903
+#EXTINF:-1,Pop
+http://thebest.allgood.ws:25461/janet/janet/48906
+#EXTINF:-1,Popeye
+http://thebest.allgood.ws:25461/janet/janet/48904
+#EXTINF:-1,Tiny Pop
+http://thebest.allgood.ws:25461/janet/janet/48907
+#EXTINF:-1,Now 80s
+https://live-aatw.simplestreamcdn.com/now/5/prog_index.m3u8
+#EXTINF:-1,MTV Base SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48924
+#EXTINF:-1,MTV Classic SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48923
+#EXTINF:-1,MTV Dance SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48922
+#EXTINF:-1,MTV HITS SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48921
+#EXTINF:-1,MTV LIVE SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48920
+#EXTINF:-1,MTV Music SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48919
+#EXTINF:-1,MTV Rocks SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48918
+#EXTINF:-1,VH 1 SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48917
+#EXTINF:-1,VIVA  HD
+http://thebest.allgood.ws:25461/janet/janet/48916
+#EXTINF:-1,Sky Movies Premiere
+http://thebest.allgood.ws:25461/janet/janet/48931
+#EXTINF:-1,Sky Movies Comedy
+http://thebest.allgood.ws:25461/janet/janet/48926
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://thebest.allgood.ws:25461/janet/janet/48925
+#EXTINF:-1,Sky Movies Drama
+http://thebest.allgood.ws:25461/janet/janet/48928
+#EXTINF:-1,Sky Movies Drama & Romance
+http://thebest.allgood.ws:25461/janet/janet/48927
+#EXTINF:-1,Sky Movies Family
+http://thebest.allgood.ws:25461/janet/janet/48929
+#EXTINF:-1,Sky Movies Modern Great
+http://thebest.allgood.ws:25461/janet/janet/48930
+#EXTINF:-1,Sky Movies SciFi & Horror
+http://thebest.allgood.ws:25461/janet/janet/48935
+#EXTINF:-1,Sky Movies Select
+http://thebest.allgood.ws:25461/janet/janet/48933
+#EXTINF:-1,Sky Movies ShowCase
+http://thebest.allgood.ws:25461/janet/janet/48934
+#EXTINF:-1,True Movies 1
+http://thebest.allgood.ws:25461/janet/janet/48915
+#EXTINF:-1,True Movies 2
+http://thebest.allgood.ws:25461/janet/janet/48914
+#EXTINF:-1,UK-L: BOX OFFICE SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48936
+#EXTINF:-1,UK-L: BOX OFFICE 1 SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48940
+#EXTINF:-1,UK-L: BOX OFFICE 2 SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48939
+#EXTINF:-1,UK-L: BOX OFFICE 3 SD/HD
+http://thebest.allgood.ws:25461/janet/janet/48938
+#EXTINF:-1,SKY SPORTS NEWS
+http://thebest.allgood.ws:25461/janet/janet/48958
+#EXTINF:-1,sky sports action
+http://thebest.allgood.ws:25461/janet/janet/49061
+#EXTINF:-1,sky sports arena
+http://thebest.allgood.ws:25461/janet/janet/49060
+#EXTINF:-1,sky sports cricket
+http://thebest.allgood.ws:25461/janet/janet/49055
+#EXTINF:-1,sky sports f1
+http://thebest.allgood.ws:25461/janet/janet/49053
+#EXTINF:-1,sky sports football
+http://thebest.allgood.ws:25461/janet/janet/49056
+#EXTINF:-1,sky sports golf
+http://thebest.allgood.ws:25461/janet/janet/49054
+#EXTINF:-1,sky sports main event
+http://thebest.allgood.ws:25461/janet/janet/49059
+#EXTINF:-1,sky sports mix
+http://thebest.allgood.ws:25461/janet/janet/49057
+#EXTINF:-1,sky sports premier
+http://thebest.allgood.ws:25461/janet/janet/49058
+#EXTINF:-1,bt sports 1
+http://thebest.allgood.ws:25461/janet/janet/49064
+#EXTINF:-1,bt sports 2
+http://thebest.allgood.ws:25461/janet/janet/49063
+#EXTINF:-1,bt sports 3
+http://thebest.allgood.ws:25461/janet/janet/49062
+#EXTINF:-1,BEIN SPORT 1 HD
+http://thebest.allgood.ws:25461/janet/janet/49074
+#EXTINF:-1,BEIN SPORT 2 HD
+http://thebest.allgood.ws:25461/janet/janet/49073
+#EXTINF:-1,BEIN SPORT 3 HD
+http://thebest.allgood.ws:25461/janet/janet/49072
+#EXTINF:-1,BEIN SPORT 4 HD
+http://thebest.allgood.ws:25461/janet/janet/49071
+#EXTINF:-1,BEIN SPORT 5 HD
+http://thebest.allgood.ws:25461/janet/janet/49070
+#EXTINF:-1,BEIN SPORT 6 HD
+http://thebest.allgood.ws:25461/janet/janet/49069
+#EXTINF:-1,BEIN SPORT 7 HD
+http://thebest.allgood.ws:25461/janet/janet/49068
+#EXTINF:-1,BEIN SPORT 8 HD
+http://thebest.allgood.ws:25461/janet/janet/49067
+#EXTINF:-1,BEIN SPORT 9 HD
+http://thebest.allgood.ws:25461/janet/janet/49066
+#EXTINF:-1,BEIN SPORT 10 HD
+http://thebest.allgood.ws:25461/janet/janet/49065
+#EXTINF:-1,BEIN Sports 11. Eng
+http://thebest.allgood.ws:25461/janet/janet/49076
+#EXTINF:-1,BEIN Sports 12. Eng
+http://thebest.allgood.ws:25461/janet/janet/49075
+#EXTINF:-1,At The Races
+http://thebest.allgood.ws:25461/janet/janet/48947
+#EXTINF:-1,Racing UK
+http://thebest.allgood.ws:25461/janet/janet/48952
+#EXTINF:-1,Premiere Sport
+http://thebest.allgood.ws:25461/janet/janet/48954
+#EXTINF:-1,Motors TV HD
+http://thebest.allgood.ws:25461/janet/janet/48946
+#EXTINF:-1,Eurosport 1
+http://thebest.allgood.ws:25461/janet/janet/48951
+#EXTINF:-1,Eurosport 2
+http://thebest.allgood.ws:25461/janet/janet/48950
+#EXTINF:-1,BOX-Nation
+http://thebest.allgood.ws:25461/janet/janet/48948
+#EXTINF:-1,Setanta/Premier Sports
+http://thebest.allgood.ws:25461/janet/janet/48957
+#EXTINF:-1,Chelsea TV
+http://thebest.allgood.ws:25461/janet/janet/48955
+#EXTINF:-1,LFCTV
+http://thebest.allgood.ws:25461/janet/janet/48966
+#EXTINF:-1,|GB| Chelsea FC
+http://thebest.allgood.ws:25461/janet/janet/49114
+#EXTINF:-1,Celtic FC TV HD (Live Matches Only)
+http://thebest.allgood.ws:25461/janet/janet/49123
+#EXTINF:-1,UK:..Chelsea TV
+http://thebest.allgood.ws:25461/janet/janet/49117
+#EXTINF:-1,UK:.LFC TV HD
+http://thebest.allgood.ws:25461/janet/janet/49116
+#EXTINF:-1,UK:.MUTV HD
+http://thebest.allgood.ws:25461/janet/janet/49115
+#EXTINF:-1,Eleven Sports 1
+http://thebest.allgood.ws:25461/janet/janet/49079
+#EXTINF:-1,FIGHTBOX HD -UFC FIGHT PASS
+http://thebest.allgood.ws:25461/janet/janet/49112
+#EXTINF:-1,C-Span 3 local (US)
+http://thebest.allgood.ws:25461/janet/janet/44582
+#EXTINF:-1,DESTINATION AMERICA
+http://thebest.allgood.ws:25461/janet/janet/48272
+#EXTINF:-1,M2O Music (US) local
+http://thebest.allgood.ws:25461/janet/janet/44576
+#EXTINF:-1,M2OTV local (US)
+http://thebest.allgood.ws:25461/janet/janet/44575
+#EXTINF:-1,TSB local  (US)
+http://thebest.allgood.ws:25461/janet/janet/44583
+#EXTINF:-1,USA I TSN 1
+http://thebest.allgood.ws:25461/janet/janet/49090
+#EXTINF:-1,USA I TSN 2
+http://thebest.allgood.ws:25461/janet/janet/49089
+#EXTINF:-1,USA I TSN 3
+http://thebest.allgood.ws:25461/janet/janet/49088
+#EXTINF:-1,USA I TSN 4
+http://thebest.allgood.ws:25461/janet/janet/49087
+#EXTINF:-1,USA I TSN 5
+http://thebest.allgood.ws:25461/janet/janet/49086
+#EXTINF:-1,US: A&E TV HD
+http://thebest.allgood.ws:25461/janet/janet/49386
+#EXTINF:-1,US: ABC HD
+http://thebest.allgood.ws:25461/janet/janet/49385
+#EXTINF:-1,US: AMC HD
+http://thebest.allgood.ws:25461/janet/janet/49384
+#EXTINF:-1,US: Animal Planet HD
+http://thebest.allgood.ws:25461/janet/janet/49383
+#EXTINF:-1,US: BET
+http://thebest.allgood.ws:25461/janet/janet/49382
+#EXTINF:-1,US: BLOOMBERG
+http://thebest.allgood.ws:25461/janet/janet/49381
+#EXTINF:-1,US: Bravo HD
+http://thebest.allgood.ws:25461/janet/janet/49380
+#EXTINF:-1,US: CARTOON NETWORK
+http://thebest.allgood.ws:25461/janet/janet/49379
+#EXTINF:-1,US: CBS HD
+http://thebest.allgood.ws:25461/janet/janet/49378
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://thebest.allgood.ws:25461/janet/janet/49377
+#EXTINF:-1,US: Cinemax Action Max East
+http://thebest.allgood.ws:25461/janet/janet/49376
+#EXTINF:-1,US: Cinemax East
+http://thebest.allgood.ws:25461/janet/janet/49375
+#EXTINF:-1,US: Cinemax Moremax HD
+http://thebest.allgood.ws:25461/janet/janet/49374
+#EXTINF:-1,US: CNBC
+http://thebest.allgood.ws:25461/janet/janet/49373
+#EXTINF:-1,US: CNN HD
+http://thebest.allgood.ws:25461/janet/janet/49372
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://thebest.allgood.ws:25461/janet/janet/49371
+#EXTINF:-1,US: CW HD
+http://thebest.allgood.ws:25461/janet/janet/49370
+#EXTINF:-1,US: Discovery Channel HD
+http://thebest.allgood.ws:25461/janet/janet/49369
+#EXTINF:-1,US: Discovery Science HD
+http://thebest.allgood.ws:25461/janet/janet/49368
+#EXTINF:-1,US: Discovery-Science-HD
+http://thebest.allgood.ws:25461/janet/janet/49367
+#EXTINF:-1,US: DIY Network
+http://thebest.allgood.ws:25461/janet/janet/49366
+#EXTINF:-1,US: E! Entertainment
+http://thebest.allgood.ws:25461/janet/janet/49365
+#EXTINF:-1,US: E4-HD
+http://thebest.allgood.ws:25461/janet/janet/49364
+#EXTINF:-1,US: Fight Box Network
+http://thebest.allgood.ws:25461/janet/janet/49363
+#EXTINF:-1,US: Food Network HD
+http://thebest.allgood.ws:25461/janet/janet/49362
+#EXTINF:-1,US: FOX HD
+http://thebest.allgood.ws:25461/janet/janet/49361
+#EXTINF:-1,US: FOXX HD
+http://thebest.allgood.ws:25461/janet/janet/49360
+#EXTINF:-1,US: FX HD
+http://thebest.allgood.ws:25461/janet/janet/49359
+#EXTINF:-1,US: FXX
+http://thebest.allgood.ws:25461/janet/janet/49358
+#EXTINF:-1,US: H2
+http://thebest.allgood.ws:25461/janet/janet/49357
+#EXTINF:-1,US: Hallmark Channel HD
+http://thebest.allgood.ws:25461/janet/janet/49356
+#EXTINF:-1,US: HBO Comedy HD
+http://thebest.allgood.ws:25461/janet/janet/49355
+#EXTINF:-1,US: HBO Signature HD
+http://thebest.allgood.ws:25461/janet/janet/49354
+#EXTINF:-1,US: HBO US
+http://thebest.allgood.ws:25461/janet/janet/49353
+#EXTINF:-1,US: HBO Zone HD
+http://thebest.allgood.ws:25461/janet/janet/49352
+#EXTINF:-1,US: HISTORY HD
+http://thebest.allgood.ws:25461/janet/janet/49351
+#EXTINF:-1,US: MLB Network HD
+http://thebest.allgood.ws:25461/janet/janet/49349
+#EXTINF:-1,US: Nasa HD
+http://thebest.allgood.ws:25461/janet/janet/49348
+#EXTINF:-1,US: Nat Geo HD
+http://thebest.allgood.ws:25461/janet/janet/49347
+#EXTINF:-1,US: Nat-Geo-HD
+http://thebest.allgood.ws:25461/janet/janet/49346
+#EXTINF:-1,US: National Geographic
+http://thebest.allgood.ws:25461/janet/janet/49345
+#EXTINF:-1,US: NBA TV
+http://thebest.allgood.ws:25461/janet/janet/49344
+#EXTINF:-1,US: NBC GOLF
+http://thebest.allgood.ws:25461/janet/janet/49343
+#EXTINF:-1,US: NBC HD
+http://thebest.allgood.ws:25461/janet/janet/49342
+#EXTINF:-1,US: NFL  Network  HD
+http://thebest.allgood.ws:25461/janet/janet/49340
+#EXTINF:-1,US: NFL Network HD
+http://thebest.allgood.ws:25461/janet/janet/49339
+#EXTINF:-1,US: NHL Network HD
+http://thebest.allgood.ws:25461/janet/janet/49338
+#EXTINF:-1,US: Nickelodeon HD
+http://thebest.allgood.ws:25461/janet/janet/49337
+#EXTINF:-1,US: PAC-12 Network HD
+http://thebest.allgood.ws:25461/janet/janet/49336
+#EXTINF:-1,US: RT America HD
+http://thebest.allgood.ws:25461/janet/janet/49335
+#EXTINF:-1,US: ShowTime HD
+http://thebest.allgood.ws:25461/janet/janet/49334
+#EXTINF:-1,US: Showtime Showcase
+http://thebest.allgood.ws:25461/janet/janet/49333
+#EXTINF:-1,US: SPIKE HD
+http://thebest.allgood.ws:25461/janet/janet/49332
+#EXTINF:-1,US: Starz Cinema HD
+http://thebest.allgood.ws:25461/janet/janet/49331
+#EXTINF:-1,US: STARZ East
+http://thebest.allgood.ws:25461/janet/janet/49330
+#EXTINF:-1,US: STARZ EDGE
+http://thebest.allgood.ws:25461/janet/janet/49329
+#EXTINF:-1,US: SYFY HD
+http://thebest.allgood.ws:25461/janet/janet/49328
+#EXTINF:-1,US: TBS HD
+http://thebest.allgood.ws:25461/janet/janet/49327
+#EXTINF:-1,US: The Florida Channel
+http://thebest.allgood.ws:25461/janet/janet/49326
+#EXTINF:-1,US: TLC HD
+http://thebest.allgood.ws:25461/janet/janet/49325
+#EXTINF:-1,US: TNT HD
+http://thebest.allgood.ws:25461/janet/janet/49324
+#EXTINF:-1,US: Travel Channel HD
+http://thebest.allgood.ws:25461/janet/janet/49323
+#EXTINF:-1,US: Universal Channel
+http://thebest.allgood.ws:25461/janet/janet/49322
+#EXTINF:-1,US: USA NETWORK HD
+http://thebest.allgood.ws:25461/janet/janet/49321
+#EXTINF:-1,US: WWE Network HD
+http://thebest.allgood.ws:25461/janet/janet/49320
+#EXTINF:-1,|GB| RANGERS FC TV (Live for Matches)
+http://thebest.allgood.ws:25461/janet/janet/49113
+#EXTINF:-1,RANGERS TV
+http://thebest.allgood.ws:25461/janet/janet/44617
+#EXTINF:-1,Rangers TV HD - Matchtime only
+http://thebest.allgood.ws:25461/janet/janet/49119
+#EXTINF:-1,(IN) & PICTURES
+http://thebest.allgood.ws:25461/janet/janet/49647
+#EXTINF:-1,(IN) & TV HD
+http://thebest.allgood.ws:25461/janet/janet/49645
+#EXTINF:-1,(IN) SONY PIX HD
+http://thebest.allgood.ws:25461/janet/janet/49644
+#EXTINF:-1,(IN) SONY ROX HD
+http://thebest.allgood.ws:25461/janet/janet/49643
+#EXTINF:-1,(IN) SONY SAB HD
+http://thebest.allgood.ws:25461/janet/janet/49642
+#EXTINF:-1,(IN) SONY SAB SD
+http://thebest.allgood.ws:25461/janet/janet/49641
+#EXTINF:-1,(IN) SONY SIX HD
+http://thebest.allgood.ws:25461/janet/janet/49640
+#EXTINF:-1,(IN) SONY SIX SD
+http://thebest.allgood.ws:25461/janet/janet/49639
+#EXTINF:-1,(IN) ZEE ACTION
+http://thebest.allgood.ws:25461/janet/janet/49638
+#EXTINF:-1,(IN) ZEE BUSINESS
+http://thebest.allgood.ws:25461/janet/janet/49637
+#EXTINF:-1,(IN) ZEE CINEMA HD
+http://thebest.allgood.ws:25461/janet/janet/49636
+#EXTINF:-1,(IN) ZEE CLASSIC
+http://thebest.allgood.ws:25461/janet/janet/49635
+#EXTINF:-1,(IN) ZEE ETC
+http://thebest.allgood.ws:25461/janet/janet/49634
+#EXTINF:-1,(IN) ZEE NEWS
+http://thebest.allgood.ws:25461/janet/janet/49633
+#EXTINF:-1,(IN) ZEE TV SD
+http://thebest.allgood.ws:25461/janet/janet/49631
+#EXTINF:-1,(IN) ZING
+http://thebest.allgood.ws:25461/janet/janet/49630
+#EXTINF:-1,HUM Masala
+http://thebest.allgood.ws:25461/janet/janet/49653
+#EXTINF:-1,IN: Ten Sports HD
+http://thebest.allgood.ws:25461/janet/janet/49663
+#EXTINF:-1,IN: ZEE ACTION
+http://thebest.allgood.ws:25461/janet/janet/49662
+#EXTINF:-1,IN: ZEE CINEMA ASIA
+http://thebest.allgood.ws:25461/janet/janet/49661
+#EXTINF:-1,IN: ZEE CINEMA HD INDIA
+http://thebest.allgood.ws:25461/janet/janet/49660
+#EXTINF:-1,IN: ZEE CLASSIC
+http://thebest.allgood.ws:25461/janet/janet/49659
+#EXTINF:-1,IN:TEN Sports 1
+http://thebest.allgood.ws:25461/janet/janet/49666
+#EXTINF:-1,IN:TEN Sports 2
+http://thebest.allgood.ws:25461/janet/janet/49665
+#EXTINF:-1,IN:TEN Sports 3
+http://thebest.allgood.ws:25461/janet/janet/49664
+#EXTINF:-1,IND: ZEE CINEMA HD
+http://thebest.allgood.ws:25461/janet/janet/49658
+#EXTINF:-1,UK: B4U MOVIES
+http://thebest.allgood.ws:25461/janet/janet/49657
+#EXTINF:-1,UK:B4UMovies
+http://thebest.allgood.ws:25461/janet/janet/49656
+#EXTINF:-1,ZEE CINEMA HD
+http://thebest.allgood.ws:25461/janet/janet/49655
+#EXTINF:-1,ZEE TV
+http://thebest.allgood.ws:25461/janet/janet/49654
+#EXTINF:-1,Poland: CANAL
+http://thebest.allgood.ws:25461/janet/janet/49746
+#EXTINF:-1,Poland: CANAL  HD
+http://thebest.allgood.ws:25461/janet/janet/49745
+#EXTINF:-1,Poland: CANAL  SPORT
+http://thebest.allgood.ws:25461/janet/janet/49744
+#EXTINF:-1,Poland: CANAL  SPORT 2  HD
+http://thebest.allgood.ws:25461/janet/janet/49743
+#EXTINF:-1,Poland: CANAL DISCOVERY
+http://thebest.allgood.ws:25461/janet/janet/49742
+#EXTINF:-1,Poland: CANAL FAMILI
+http://thebest.allgood.ws:25461/janet/janet/49740
+#EXTINF:-1,Poland: CANAL FAMILY HD
+http://thebest.allgood.ws:25461/janet/janet/49739
+#EXTINF:-1,Poland: CANAL FILM
+http://thebest.allgood.ws:25461/janet/janet/49738
+#EXTINF:-1,Poland: CANAL FILM HD
+http://thebest.allgood.ws:25461/janet/janet/49737
+#EXTINF:-1,Poland: CANAL SERIALE
+http://thebest.allgood.ws:25461/janet/janet/49736
+#EXTINF:-1,Poland: CANAL SERIALE HD
+http://thebest.allgood.ws:25461/janet/janet/49735
+#EXTINF:-1,Poland: CANAL SPORT
+http://thebest.allgood.ws:25461/janet/janet/49734
+#EXTINF:-1,Poland: CARTOON NETWORK HD
+http://thebest.allgood.ws:25461/janet/janet/49733
+#EXTINF:-1,Poland: CBS REALITY
+http://thebest.allgood.ws:25461/janet/janet/49732
+#EXTINF:-1,Poland: CC FAMILI
+http://thebest.allgood.ws:25461/janet/janet/49731
+#EXTINF:-1,Poland: CINEMAX
+http://thebest.allgood.ws:25461/janet/janet/49730
+#EXTINF:-1,Poland: CINEMAX 2
+http://thebest.allgood.ws:25461/janet/janet/49729
+#EXTINF:-1,Poland: COMEDT CENTRAL
+http://thebest.allgood.ws:25461/janet/janet/49728
+#EXTINF:-1,Poland: ELEVEN EXTRA HD
+http://thebest.allgood.ws:25461/janet/janet/49727
+#EXTINF:-1,Poland: ELEVEN HD
+http://thebest.allgood.ws:25461/janet/janet/49726
+#EXTINF:-1,Poland: EUROSPORT 1
+http://thebest.allgood.ws:25461/janet/janet/49724
+#EXTINF:-1,Poland: EUROSPORT 2
+http://thebest.allgood.ws:25461/janet/janet/49723
+#EXTINF:-1,Poland: EXTREME SPORT
+http://thebest.allgood.ws:25461/janet/janet/49722
+#EXTINF:-1,Poland: FILMBOX
+http://thebest.allgood.ws:25461/janet/janet/49721
+#EXTINF:-1,Poland: FILMBOX ACTION
+http://thebest.allgood.ws:25461/janet/janet/49720
+#EXTINF:-1,Poland: FILMBOX FAMILI
+http://thebest.allgood.ws:25461/janet/janet/49719
+#EXTINF:-1,Poland: FILMBOX FAMILY
+http://thebest.allgood.ws:25461/janet/janet/49718
+#EXTINF:-1,Poland: FILMBOX PREIMUIM
+http://thebest.allgood.ws:25461/janet/janet/49717
+#EXTINF:-1,Poland: FILMBOX PREMIER
+http://thebest.allgood.ws:25461/janet/janet/49716
+#EXTINF:-1,Poland: HBO
+http://thebest.allgood.ws:25461/janet/janet/49715
+#EXTINF:-1,Poland: HBO 2 HD
+http://thebest.allgood.ws:25461/janet/janet/49714
+#EXTINF:-1,Poland: HBO 3 HD
+http://thebest.allgood.ws:25461/janet/janet/49713
+#EXTINF:-1,Poland: HBO2
+http://thebest.allgood.ws:25461/janet/janet/49712
+#EXTINF:-1,Poland: HBO3
+http://thebest.allgood.ws:25461/janet/janet/49711
+#EXTINF:-1,Poland: KINO POLSKA
+http://thebest.allgood.ws:25461/janet/janet/49710
+#EXTINF:-1,Poland: NATIONAL GEO GRAPHIC
+http://thebest.allgood.ws:25461/janet/janet/49709
+#EXTINF:-1,Poland: NATIONALGEO
+http://thebest.allgood.ws:25461/janet/janet/49708
+#EXTINF:-1,Poland: NICK JR POLSAKA
+http://thebest.allgood.ws:25461/janet/janet/49707
+#EXTINF:-1,Poland: NICLEODEON
+http://thebest.allgood.ws:25461/janet/janet/49706
+#EXTINF:-1,Poland: NSPORT
+http://thebest.allgood.ws:25461/janet/janet/49705
+#EXTINF:-1,Poland: NSPORT PLUS
+http://thebest.allgood.ws:25461/janet/janet/49704
+#EXTINF:-1,Poland: POLSAT 1
+http://thebest.allgood.ws:25461/janet/janet/49703
+#EXTINF:-1,Poland: POLSAT 2 HD
+http://thebest.allgood.ws:25461/janet/janet/49702
+#EXTINF:-1,Poland: POLSAT CAFE
+http://thebest.allgood.ws:25461/janet/janet/49701
+#EXTINF:-1,Poland: POLSAT FILM
+http://thebest.allgood.ws:25461/janet/janet/49700
+#EXTINF:-1,Poland: POLSAT FOOD
+http://thebest.allgood.ws:25461/janet/janet/49699
+#EXTINF:-1,Poland: POLSAT NEWS
+http://thebest.allgood.ws:25461/janet/janet/49698
+#EXTINF:-1,Poland: POLSAT NEWS 2
+http://thebest.allgood.ws:25461/janet/janet/49697
+#EXTINF:-1,Poland: POLSAT PLAY
+http://thebest.allgood.ws:25461/janet/janet/49696
+#EXTINF:-1,Poland: POLSAT ROMANS
+http://thebest.allgood.ws:25461/janet/janet/49695
+#EXTINF:-1,Poland: POLSAT SPORT
+http://thebest.allgood.ws:25461/janet/janet/49694
+#EXTINF:-1,Poland: POLSAT SPORT EXTRA HD
+http://thebest.allgood.ws:25461/janet/janet/49693
+#EXTINF:-1,Poland: POLSAT SPORT NEWS
+http://thebest.allgood.ws:25461/janet/janet/49692
+#EXTINF:-1,Poland: POLSAT SPORTS NEWS
+http://thebest.allgood.ws:25461/janet/janet/49691
+#EXTINF:-1,Poland: POLSAT2
+http://thebest.allgood.ws:25461/janet/janet/49690
+#EXTINF:-1,Poland: POLSATSPORTEXTRA
+http://thebest.allgood.ws:25461/janet/janet/49689
+#EXTINF:-1,Poland: TVN 24
+http://thebest.allgood.ws:25461/janet/janet/49688
+#EXTINF:-1,Poland: TVN STYLE
+http://thebest.allgood.ws:25461/janet/janet/49687
+#EXTINF:-1,Poland: TVN TURBO
+http://thebest.allgood.ws:25461/janet/janet/49686
+#EXTINF:-1,Poland: TVP HISTORIA
+http://thebest.allgood.ws:25461/janet/janet/49685
+#EXTINF:-1,Poland: TVP KULTURE
+http://thebest.allgood.ws:25461/janet/janet/49684
+#EXTINF:-1,Poland: TVP SPORT
+http://thebest.allgood.ws:25461/janet/janet/49683
+#EXTINF:-1,Poland: TVP SPORT HD
+http://thebest.allgood.ws:25461/janet/janet/49682
+#EXTINF:-1,Poland: TVP1
+http://thebest.allgood.ws:25461/janet/janet/49681
+#EXTINF:-1,Poland: TVP2
+http://thebest.allgood.ws:25461/janet/janet/49680
+#EXTINF:-1,Poland: TVP3
+http://thebest.allgood.ws:25461/janet/janet/49679
+#EXTINF:-1,Poland: TVPINFO
+http://thebest.allgood.ws:25461/janet/janet/49678
+#EXTINF:-1,Poland: TVPSERIAL
+http://thebest.allgood.ws:25461/janet/janet/49677
+#EXTINF:-1,Poland: TVPSTYLE
+http://thebest.allgood.ws:25461/janet/janet/49676
